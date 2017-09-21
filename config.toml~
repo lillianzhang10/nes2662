@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "The Daily Life Blog"
+title = "Daily Life in Biblical Times"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -17,7 +17,7 @@ canonifyURLs = false
     # Sets the meta tag description, usually reserved for the main page
     description          = "Lillian Zhang's Daily Life Blog for NES 2662: Daily Life in Biblical Times"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "The Daily Life Blog"
+    navbarTitle          = "Daily Life in Biblical Times"
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
@@ -28,9 +28,9 @@ canonifyURLs = false
     rssAppearAtTop       = true
     rssAppearAtBottom    = true
     # Social media buttons that appear on the sidebar
-    socialAppearAtTop    = true
-    socialAppearAtBottom = true
-    categoriesByCount    = true
+    socialAppearAtTop    = false
+    socialAppearAtBottom = false
+    categoriesByCount    = false
     includeReadingTime   = true
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
@@ -60,11 +60,11 @@ canonifyURLs = false
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Hugo Future Imperfect"
+    header    = "Daily Life in Biblical Times"
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "A blog for NES 2662: Daily Life in Biblical Times. Written by Lillian Zhang."
 
-    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+#    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -105,28 +105,28 @@ canonifyURLs = false
     weight = 3
 
 [[menu.main]]
-    name = "Itemized"
-    url = "/itemized/"
-    identifier = "fa fa-list"
+    name = "Bibliography"
+    url = "/bibliography/"
+    identifier = "fa fa-book"
     weight = 4
 
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    identifier = "fa fa-sitemap"
-    weight = 5
+#[[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    identifier = "fa fa-sitemap"
+#    weight = 5
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    identifier = "fa fa-envelope-o"
-    weight = 6
+#[[menu.main]]
+#    name = "Contact"
+#    url = "/contact/"
+#    identifier = "fa fa-envelope-o"
+#    weight = 6
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "jpescador"
+    github          = ""
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -152,5 +152,5 @@ canonifyURLs = false
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "julio_pescador"
+    twitter         = ""
     email           = ""
