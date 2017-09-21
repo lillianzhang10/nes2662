@@ -4,7 +4,7 @@ title = "Daily Life in Biblical Times"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = ""
 googleAnalytics = ""
 pluralizeListTitles = false
 
@@ -12,6 +12,9 @@ publishDir = "docs"
 
 relativeURLs = true
 canonifyURLs = false
+
+#Need relativeURLs to make css pages work
+#Make sure disqusShortname is an empty string. We don't want comments.
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
