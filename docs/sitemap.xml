@@ -3,33 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/itemized/item1/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/itemized/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/bibliography/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/itemized/item3/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/itemized/item4/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,25 +38,20 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -82,8 +67,14 @@
   </url>
   
   <url>
-    <loc>/itemized/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/categories/iron-age/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/israel/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,13 +85,25 @@
   </url>
   
   <url>
+    <loc>/categories/orphans/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/categories/tell-en-nasbeh/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/widows/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
