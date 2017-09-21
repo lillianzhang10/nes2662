@@ -1,6 +1,6 @@
 baseurl = "http://lillianzhang10.github.io/nes2662"
 languageCode = "en-us"
-title = "Daily Life Blog"
+title = "The Daily Life Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -12,9 +12,9 @@ publishDir = "docs"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "The Daily Life Blog for NES 2662: Daily Life in Biblical Times"
+    description          = "Lillian Zhang's Daily Life Blog for NES 2662: Daily Life in Biblical Times"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "The Daily Life Blog"
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
@@ -102,22 +102,22 @@ publishDir = "docs"
     weight = 3
 
 [[menu.main]]
-    name = "Bibliography"
-    url = "/bibliography/"
+    name = "Itemized"
+    url = "/itemized/"
     identifier = "fa fa-list"
     weight = 4
 
-#[[menu.main]]
-#    name = "Categories"
-#    url = "/categories/"
-#    identifier = "fa fa-sitemap"
-#    weight = 5
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    identifier = "fa fa-sitemap"
+    weight = 5
 
-#[[menu.main]]
-#    name = "Contact"
-#    url = "/contact/"
-#    identifier = "fa fa-envelope-o"
-#    weight = 6
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    identifier = "fa fa-envelope-o"
+    weight = 6
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
