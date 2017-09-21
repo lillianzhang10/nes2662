@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "lillianzhang10.github.io/nes2662"
 languageCode = "en-us"
 title = "The Daily Life Blog"
 theme = "hugo-future-imperfect"
@@ -9,6 +9,8 @@ googleAnalytics = ""
 pluralizeListTitles = false
 
 publishDir = "docs"
+
+relativeURLs = true
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
