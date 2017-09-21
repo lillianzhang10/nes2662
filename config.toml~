@@ -1,4 +1,4 @@
-baseurl = "lillianzhang10.github.io/nes2662/"
+baseurl = "/"
 languageCode = "en-us"
 title = "The Daily Life Blog"
 theme = "hugo-future-imperfect"
