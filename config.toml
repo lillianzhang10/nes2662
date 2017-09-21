@@ -10,8 +10,8 @@ pluralizeListTitles = false
 
 publishDir = "docs"
 
-relativeURLs = false
-canonifyURLs = true
+relativeURLs = true
+canonifyURLs = false
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
