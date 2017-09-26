@@ -1,7 +1,7 @@
 +++
 author = "Lillian Zhang"
 categories = ["Tell en-Nasbeh", "Iron Age", "Israel", "Orphans", "Widows"]
-date = "2017-09-21"
+date = "2017-09-26"
 description = "Blog Post #1"
 featured = "pic01.jpg"
 featuredalt = ""
