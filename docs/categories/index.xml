@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daily Life in Biblical Times</title>
-    <link>lillianzhang10.github.io/nes2662/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Daily Life in Biblical Times</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="lillianzhang10.github.io/nes2662/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fatherless</title>
-      <link>lillianzhang10.github.io/nes2662/categories/fatherless/</link>
+      <link>/categories/fatherless/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/fatherless/</guid>
+      <guid>/categories/fatherless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iron Age</title>
-      <link>lillianzhang10.github.io/nes2662/categories/iron-age/</link>
+      <link>/categories/iron-age/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/iron-age/</guid>
+      <guid>/categories/iron-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Israel</title>
-      <link>lillianzhang10.github.io/nes2662/categories/israel/</link>
+      <link>/categories/israel/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/israel/</guid>
+      <guid>/categories/israel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orphans</title>
-      <link>lillianzhang10.github.io/nes2662/categories/orphans/</link>
+      <link>/categories/orphans/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/orphans/</guid>
+      <guid>/categories/orphans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tell en-Nasbeh</title>
-      <link>lillianzhang10.github.io/nes2662/categories/tell-en-nasbeh/</link>
+      <link>/categories/tell-en-nasbeh/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/tell-en-nasbeh/</guid>
+      <guid>/categories/tell-en-nasbeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Widows</title>
-      <link>lillianzhang10.github.io/nes2662/categories/widows/</link>
+      <link>/categories/widows/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>lillianzhang10.github.io/nes2662/categories/widows/</guid>
+      <guid>/categories/widows/</guid>
       <description></description>
     </item>
     
