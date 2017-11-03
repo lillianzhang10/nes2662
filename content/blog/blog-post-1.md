@@ -33,9 +33,3 @@ In "Assyrian March Against Judah", author Philip Stern describes the Assyrian in
 __Von Waldow, H. Eberhard. “SOCIAL RESPONSIBILITY AND SOCIAL STRUCTURE IN EARLY ISRAEL.” _The Catholic Biblical Quarterly_, vol. 32, no. 2, 1970, pp. 182–204. JSTOR, JSTOR, www.jstor.org/stable/43712795.__
 
 This journal article describes the feelings of social responsibility that prevailed in ancient Israel and explores why such sentiments may have developed. It is useful to my research primarily because it explores why certain groups were unusually vulnerable. At the time, security came from kin and extended family, so those outside of a kinship group were vulnerable. Foreigners had left their kinship group and its protection; orphans and widows had been linked to the group by a individual who is now deceased, leaving their status in question. 
-
-
-<!-- 
-ust, Avraham, and Shlomo Bunimovitz. “The Four Room House: Embodying Iron Age Israelite Society.” Near Eastern Archaeology, vol. 66, no. 1/2, 2003, pp. 22–31. JSTOR, JSTOR, www.jstor.org/stable/3210929.
--->
-
