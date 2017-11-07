@@ -34,13 +34,13 @@ The woman smiled sadly at the sight of him. "It's the least we can do. We lost s
 
 Without another word, she turned and led the donkey down the hill. Her husband followed closely behind.
 
-{{< figure src="/grapes.png" caption="Figure 1: A palestinian woman harvesting grapes. There is a small watchtower in the background. (Ebeling 192)" >}}
+{{< figure src="/grapes.png" caption= "Figure 1: A palestinian woman harvesting grapes. There is a small watchtower in the background. (Ebeling 192)" >}}
 
 Shimeah and Naarah gathered up their tools and began to harvest. Using pruning knives, they separated clusters of grapes from the vines and collected them in baskets. Shimeah grew bored after a little while, so he started to snack on the grapes they were picking. Although grapes were primarily useful for making wine, they could also be eaten fresh. Sometime before noon, the vineyard owners returned with the donkey and took the last of the storage containers, leaving the winepress available for Shimeah and Naarah to use.
 
 They gathered up the baskets of grapes and dumped them onto the treading floor of the winepress. Barefoot, they tread upon the grapes to crush them and release the juice. Rivulets of purple liquid ran through a channel in the winepress and pooled a vat below, where yeast from the skins was already beginning to cause fermentation. They would leave the juice to bubble and ferment in the vat for a few days. Then they would collect the liquid in wineskins and storage jars that had small holes for ventilation and leave it in a cool, dark place to continue the fermentation process.
 
-{{< figure src="/winepress.jpg" caption="Figure 2: A diagram of an Israelite winepress." (“Vineyards and Winepresses in Ancient Israel.”)"}}
+{{< figure src="/winepress.jpg" caption="Figure 2: A diagram of an Israelite winepress. (“Vineyards and Winepresses in Ancient Israel.”)" >}}
 
 
 ## Bibliographic Sources
