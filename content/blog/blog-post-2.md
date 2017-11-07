@@ -1,7 +1,7 @@
 +++
 author = "Lillian Zhang"
 categories = ["Tell en-Nasbeh", "Iron Age", "Israel", "Fatherless", "Widows"]
-date = "2017-11-02"
+date = "2017-11-05"
 description = "Blog Post #2"
 featured = "pic01.jpg"
 featuredalt = ""
@@ -35,9 +35,10 @@ I chose to focus on the grape harvest because agriculture was central to the liv
 
 ## Bibliographic References
 
-Jennie Ebeling. “Engendering the Israelite Harvests.” Near Eastern Archaeology, vol. 79, no. 3, 2016, pp. 186–194. JSTOR, JSTOR, www.jstor.org/stable/10.5615/neareastarch.79.3.0186.
+__Dougherty, Raymond P. “Sennacherib and the Walled Cities of Judah.” _Journal of Biblical Literature_, vol. 49, no. 2, 1930, pp. 160–171. JSTOR, JSTOR, www.jstor.org/stable/3259107__
 
-This resource describes the role of women in the agricultural harvests of ancient Israel.
+This article examines textual and archaeological evidence of King Sennacherib's invasion of Judah in 701 B.C. Since this blog will explore the possible effects of that invasion, the information that “Sennacherib and the Walled Cities of Judah.” provides about the extent of the damage and how it was accomplished is highly useful. In addition, this article briefly describes the walls of Tell en-Nasbeh, or Mizpah.
 
-Faust, Avraham, and Shlomo Bunimovitz. “The Four Room House: Embodying Iron Age Israelite Society.” Near Eastern Archaeology, vol. 66, no. 1/2, 2003, pp. 22–31. JSTOR, JSTOR, www.jstor.org/stable/3210929.
+__Faust, Avraham. “The Rural Community in Ancient Israel during Iron Age II.” _Bulletin of the American Schools of Oriental Research_, no. 317, 2000, pp. 17–39., www.jstor.org/stable/1357482.__
 
+In "The Rural Community in Ancient Israel during Iron Age II", author Avraham Faust describes the villages of ancient Israel. He looks into the basic social unit - the family - as well as food preparation, terraces, storage facilities, and community organization. Mizpah is a town rather than a village, but many aspects of life, such as the importance of agriculture and the centrality of the family, remain the same whether one lives in a large city or a small settlement.
