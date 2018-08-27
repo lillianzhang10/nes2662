@@ -43,3 +43,15 @@ This resource describes the role of women in the agricultural harvests of ancien
 __Daniel D. Pioske. “DAVID'S JERUSALEM: A Sense of Place.” _Near Eastern Archaeology_, vol. 76, no. 1, 2013, pp. 4–15. JSTOR, JSTOR, www.jstor.org/stable/10.5615/neareastarch.76.1.0004.__
 
 This article focuses upon Jerusalem in the 10th century B.C., but its descriptions of agriculture, housing, and cities are useful to understanding daily life in Iron Age Israel in general. 
+
+__“Manasseh, King of Judah.” Anchor Bible Dictionary, edited by David N. Freedman, Gary A. Herion, David F. Graf, John David Pleins, and Astrid B. Beck, 1993.__
+
+This dictionary entry described King Manasseh and his reign. It describes the differences between him and his father Hezekiah, and mentions a possible coregency as a way to reconcile seemingly inconsistent chronologies.
+
+__King, Philip J. and Lawrence E. Stager. Life in Biblical Israel. Westminster John Knox Press, 2001.__
+
+This book was the source of Figure 2, the cake mold. It also provided a great deal of information about daily life in Israel, and about the Queen of Heaven in particular.
+
+__Novacek, Gabrielle V. Ancient Israel: Highlights from the Collections of the Oriental Institute. The Oriental Institute of the University of Chicago, 2011.__
+
+This was the source of Figure 1, the female figurine. This book also provided information about goddess-centered cults, such as that of the Queen of Heaven.

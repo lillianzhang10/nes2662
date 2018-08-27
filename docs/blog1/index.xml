@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog1 on Daily Life in Biblical Times</title>
+    <link>/blog1/</link>
+    <description>Recent content in Blog1 on Daily Life in Biblical Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Post #1: Introducing Shimeah</title>
+      <link>/blog1/blog-post-1/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog1/blog-post-1/</guid>
+      <description>Introduction Meet Shimeah. He is a 10-year-old boy who lives in Mizpah with his mother, Naarah, during the year 693 B.C.. His father died 8 years ago, when Sennacherib of Assyria invaded Judah in 701 B.C., leaving Shimeah an orphan and Naarah a widow. As a fatherless child, he is partially protected by laws that require Judahites to leave gleanings in their field for the foreigner, the widow, and the orphan, but he is still part of a socially and economically disenfranchised group.</description>
+    </item>
+    
+  </channel>
+</rss>

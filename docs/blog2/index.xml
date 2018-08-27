@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog2 on Daily Life in Biblical Times</title>
+    <link>/blog2/</link>
+    <description>Recent content in Blog2 on Daily Life in Biblical Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Post #2: Main Topics</title>
+      <link>/blog2/blog-post-2/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog2/blog-post-2/</guid>
+      <description>Main Topics The examination of Shimeah&amp;rsquo;s daily life will primarily focus upon the grape harvest and his interactions with his extended family. Secondary topics will include food processing and storage, the structure and function of the four-room house, and the lingering effects of Sennacherib&amp;rsquo;s invasion of Judah. For most of the day, Shimeah will glean grapes from harvested vineyards alongside his mother Naarah. He will also begin to process the harvested grapes into wine.</description>
+    </item>
+    
+  </channel>
+</rss>

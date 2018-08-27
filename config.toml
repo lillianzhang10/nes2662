@@ -84,7 +84,7 @@ canonifyURLs = false
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 5
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
@@ -102,16 +102,40 @@ canonifyURLs = false
     weight = 2
 
 [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    identifier = "fa fa-newspaper-o"
-    weight = 3
-
-[[menu.main]]
     name = "Bibliography"
     url = "/bibliography/"
     identifier = "fa fa-book"
+    weight = 3
+
+[[menu.main]]
+    name = "Blog Post 1"
+    url = "/blog1/"
+    identifier = "fa fa-newspaper-o"
     weight = 4
+
+[[menu.main]]
+    name = "Blog Post 2"
+    url = "/blog2/"
+    identifier = "fa fa-newspaper-o"
+    weight = 5
+
+[[menu.main]]
+    name = "Blog Post 3"
+    url = "/blog3/"
+    identifier = "fa fa-newspaper-o"
+    weight = 6
+
+[[menu.main]]
+    name = "Blog Post 4"
+    url = "/blog4/"
+    identifier = "fa fa-newspaper-o"
+    weight = 7
+
+[[menu.main]]
+    name = "Blog Post 5"
+    url = "/blog5/"
+    identifier = "fa fa-newspaper-o"
+    weight = 8
 
 #[[menu.main]]
 #    name = "Categories"
