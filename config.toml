@@ -109,31 +109,31 @@ canonifyURLs = false
 
 [[menu.main]]
     name = "Blog Post 1"
-    url = "/blog1/"
+    url = "/blog1/blog-post-1/"
     identifier = "fa fa-newspaper-o"
     weight = 4
 
 [[menu.main]]
     name = "Blog Post 2"
-    url = "/blog2/"
+    url = "/blog2/blog-post-2/"
     identifier = "fa fa-newspaper-o"
     weight = 5
 
 [[menu.main]]
     name = "Blog Post 3"
-    url = "/blog3/"
+    url = "/blog3/blog-post-3/"
     identifier = "fa fa-newspaper-o"
     weight = 6
 
 [[menu.main]]
     name = "Blog Post 4"
-    url = "/blog4/"
+    url = "/blog4/blog-post-4/"
     identifier = "fa fa-newspaper-o"
     weight = 7
 
 [[menu.main]]
     name = "Blog Post 5"
-    url = "/blog5/"
+    url = "/blog5/blog-post-5/"
     identifier = "fa fa-newspaper-o"
     weight = 8
 
